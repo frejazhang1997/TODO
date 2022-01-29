@@ -63,7 +63,7 @@ struct ContentView: View {
                     notes = ""
                     
                 }, label: {
-                    Text("Add Todo Item")
+                    Text("Add a new Todo Item")
                 })
                 
             }
